@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "exampleid:blocks/naruto_block",
+    "top": "exampleid:blocks/naruto_block",
+    "side": "exampleid:blocks/naruto_block"
+  }
+}

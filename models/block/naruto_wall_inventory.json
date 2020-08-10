@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_inventory",
+  "textures": {
+    "wall": "exampleid:blocks/naruto_block"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "modid": "exampleid",
+  "entries": [
+    {
+      "parent": "block/cube_all",
+      "name": "example_block",
+      "lang": {
+        "en_us": "Example Block",
+        "pt_br": "Bloco Exemplo"
+      }
+    },
+    {
+      "parent": "block/cube_all",
+      "name": "saske_block",
+      "lang": {
+        "en_us": "Saske Block",
+        "pt_br": "Bloco Saske"
+      }
+    },
+    {
+      "parent": "item/generated",
+      "name": "saske_item",
+      "lang": {
+        "en_us": "Saske Item",
+        "pt_br": "Item Saske"
+      }
+    },
+    {
+      "parent": "block/orientable",
+      "name": "naruto_block",
+      "lang": {
+        "en_us": "Naruto Block",
+        "pt_br": "Bloco Naruto"
+      }
+    },
+    {
+      "parent": "block/stairs",
+      "name": "naruto_stairs",
+      "origin_block": "naruto_block",
+      "lang": {
+        "en_us": "Naruto Stairs",
+        "pt_br": "Escadas Naruto"
+      }
+    },
+    {
+      "parent": "block/wall",
+      "name": "naruto_wall",
+      "origin_block": "naruto_block",
+      "lang": {
+        "en_us": "Naruto Wall",
+        "pt_br": "Parede Naruto"
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "front": "exampleid:blocks/naruto_block_front",
+    "side": "exampleid:blocks/naruto_block_side",
+    "top": "exampleid:blocks/naruto_block_top"
+  }
+}

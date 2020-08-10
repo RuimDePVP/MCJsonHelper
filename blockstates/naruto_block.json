@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "exampleid:block/naruto_block"
+    },
+    "facing=east": {
+      "model": "exampleid:block/naruto_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "exampleid:block/naruto_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "exampleid:block/naruto_block",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_side",
+  "textures": {
+    "wall": "exampleid:blocks/naruto_block"
+  }
+}
